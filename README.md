@@ -1,9 +1,9 @@
 <p align="center">
-  <h3 align="center">Hi</h3>
+  <h3 align="center">SatoshiMota</h3>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+👨‍💻&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+GameDev+Crypto+👨‍💻&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 <h3>Languages</h3>
