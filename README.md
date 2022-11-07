@@ -12,10 +12,14 @@ Python
 
 <h3>Frameworks / Platforms / Libraries</h3>
 
-Selenium - 
-BrowserAutomationStudio - 
-SilverBullet - 
-Unity - 
+Selenium
+
+BrowserAutomationStudio
+
+SilverBullet
+
+Unity
+
 Blender
 
 <h3>Design Instruments</h3>
