@@ -1,26 +1,26 @@
 <p align="center">
-  <h3 align="center">SatoshiMota</h3>
+  <h2 align="center">SatoshiMota</h2>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+GameDev+Crypto+👨‍💻&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
-<h3>Languages</h3>
+<h2>Languages</h2>
 
-Python
+<h5>Python</h5>
 
-<h3>Frameworks / Platforms / Libraries</h3>
+<h2>Frameworks / Platforms / Libraries</h2>
 
-Selenium
+<h5>Selenium</h5>
 
-BrowserAutomationStudio
+<h5>BrowserAutomationStudio</h5></h5>
 
-SilverBullet
+<h5>SilverBullet</h5>
 
-Unity
+<h5>Unity</h5>
 
-Blender
+<h5>Blender</h5>
 
 <h3>Design Instruments</h3>
 
