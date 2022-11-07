@@ -8,7 +8,7 @@
 
 <h3>Languages</h3>
 
-![Python](https://prnt.sc/17LwskCxXiKD)
+![image](https://user-images.githubusercontent.com/114546771/200310728-4f583c13-56ac-4d91-8c61-6040f248b9e1.png)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
