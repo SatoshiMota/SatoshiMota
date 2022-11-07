@@ -22,7 +22,7 @@
 
 <h5>Blender</h5>
 
-<h3>Design Instruments</h3>
+<h2>Design Instruments</h2>
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
