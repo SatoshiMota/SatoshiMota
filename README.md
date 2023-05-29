@@ -8,11 +8,11 @@
 
 <h2>Languages</h2>
 
-<h5>Python</h5>
+<h5>Node.js</h5>
 
 <h2>Frameworks / Platforms / Libraries</h2>
 
-<h5>Selenium</h5>
+<h5>React</h5>
 
 <h5>BrowserAutomationStudio</h5></h5>
 
