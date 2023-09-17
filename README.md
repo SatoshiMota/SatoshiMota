@@ -8,7 +8,7 @@
 
 <h2>Languages</h2>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=838383)
+![JavaScript](https://img.shields.io/badge/JavaScript-A1860F?logo=JavaScript&logoColor=f5f5f5&labelColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&logoColor=f5f5f5)
 
 <h2>Frameworks / Platforms / Libraries</h2>
