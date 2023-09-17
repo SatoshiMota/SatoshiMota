@@ -8,24 +8,20 @@
 
 <h2>Languages</h2>
 
-<h5>Node.js</h5>
+<h5>Javascript</h5>
+![Javascript](https://img.shields.io/badge/javascript-blue?logo=javascript&logoColor=f5f5f5)
+
+<h5>TypeScript</h5>
 
 <h2>Frameworks / Platforms / Libraries</h2>
 
 <h5>React</h5>
 
+<h2>UI Design</h2>
+
 <h5>BrowserAutomationStudio</h5></h5>
-
-<h5>SilverBullet</h5>
-
-<h5>Unity</h5>
-
-<h5>Blender</h5>
 
 <h2>Design Instruments</h2>
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-Adobe Substance 3D Painter
-
-<!-- https://github.com/Ileriayo/markdown-badges -->
