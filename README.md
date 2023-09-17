@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=₿+Crypto+Development+₿&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Crypto+Development+₿&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 <h2>Languages</h2>
@@ -13,9 +13,9 @@
 
 <h2>Libraries</h2>
 
-![React](https://img.shields.io/badge/React-212121?logo=React&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-494949?logo=React&logoColor=61DAFB&labelColor=212121)
 
 <h2>Design Instruments</h2>
 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-2FA3F7?logo=adobephotoshop&logoColor=001D34)
-![Figma](https://img.shields.io/badge/Figma-F25425?logo=Figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-2581C2?logo=adobephotoshop&logoColor=001D34&labelColor=2FA3F7)
+![Figma](https://img.shields.io/badge/Figma-C9461F?logo=Figma&logoColor=white&labelColor=F25425)
