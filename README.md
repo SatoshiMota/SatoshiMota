@@ -9,6 +9,7 @@
 <h2>Languages</h2>
 
 <h5>Javascript</h5>
+
 ![Javascript](https://img.shields.io/badge/javascript-blue?logo=javascript&logoColor=f5f5f5)
 
 <h5>TypeScript</h5>
